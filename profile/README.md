@@ -5,11 +5,14 @@
 
 ## Personalized Math Problem Rewriting Using AI: 
 
-### Context: Engaging students in mathematics can be challenging, especially when they feel disconnected from standard problem formats. Research shows that embedding academic content into topics students care about—such as sports, video games, or animals—can significantly boost motivation and comprehension.
+### Context: 
+Engaging students in mathematics can be challenging, especially when they feel disconnected from standard problem formats. Research shows that embedding academic content into topics students care about—such as sports, video games, or animals—can significantly boost motivation and comprehension.
 
-### Objective: Help EdTech platforms and educators increase student engagement by using AI to automatically rephrase standard math problems into versions that align with a student’s interests or hobbies.
+### Objective: 
+Help EdTech platforms and educators increase student engagement by using AI to automatically rephrase standard math problems into versions that align with a student’s interests or hobbies.
 
-### Task: Design an AI system that takes a standard math word problem and a student’s interest theme (e.g., “football,” “Minecraft,” “wildlife”) as input and generates a rewritten version of the problem with the same mathematical structure but a personalized context.
+### Task: 
+Design an AI system that takes a standard math word problem and a student’s interest theme (e.g., “football,” “Minecraft,” “wildlife”) as input and generates a rewritten version of the problem with the same mathematical structure but a personalized context.
 
 
 Your system should include the following components:
